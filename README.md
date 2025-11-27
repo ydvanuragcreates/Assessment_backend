@@ -74,17 +74,6 @@ npm start
 
 The server will start on `http://localhost:3000`
 
-## API Screenshots
-
-### Get All Tasks
-![Get All Tasks](./screenshots/get-all-tasks.png)
-
-### Filter Tasks by Status
-![Filter Tasks](./screenshots/filter-tasks.png)
-
-### Bearer Token Authentication
-![Bearer Auth](./screenshots/bearer-auth.png)
-
 ## API Endpoints
 
 ### Health Check
