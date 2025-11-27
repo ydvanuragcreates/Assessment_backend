@@ -140,8 +140,8 @@ Response:
   "message": "Employee registered successfully",
   "data": {
     "id": "507f1f77bcf86cd799439011",
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Anurag Yadav",
+    "email": "anurag@example.com",
     "role": "Developer",
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
   }
@@ -155,7 +155,7 @@ POST /api/employees/login
 Content-Type: application/json
 
 {
-  "email": "john@example.com",
+  "email": "anurag@example.com",
   "password": "password123"
 }
 ```
